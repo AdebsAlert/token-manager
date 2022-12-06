@@ -33,6 +33,6 @@
     "mocha": "^6.2.0",
     "sinon": "^1.17.1",
     "sinon-chai": "^2.8.0",
-    "supertest": "^1.1.0"
+    "supertest": "^6.3.2"
   }
 }
