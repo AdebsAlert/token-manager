@@ -19,7 +19,7 @@
   "dependencies": {
     "debug": "^2.2.0",
     "ioredis": "^4.14.1",
-    "jsonwebtoken": "^5.4.0",
+    "jsonwebtoken": "^9.0.0",
     "lodash": "^4.17.15",
     "promise": "^7.0.4"
   },
